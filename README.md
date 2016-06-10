@@ -3,7 +3,7 @@ Getting and Cleaning Data - Course Project
 <br>
 In the repository you can find script file, variable description file and output data file. 
 
-* `CodeBook.md` describes the variables.
+* `CodeBook.md` describes the variables and provides the script steps with function explanation.
 * `run_analysis.R` script file for tidying the data.
 * `tidydataset.txt` the output data file.
 
